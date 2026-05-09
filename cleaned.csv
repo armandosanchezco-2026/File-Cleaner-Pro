@@ -1,0 +1,10 @@
+{
+"name": "John",
+"age": 30,
+"city": "Madrid",
+"skills": [
+"python",
+"automation"
+],
+"active": true
+}
