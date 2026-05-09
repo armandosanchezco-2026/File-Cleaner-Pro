@@ -25,11 +25,11 @@ File cleaned successfully!
 - Output saved to: cleaned.csv
 
 ## Project Structure
-file-cleaner/
-├── cleaner.py
-├── utils.py
-├── README.md
-└── samples/
+file-cleaner/  
+├── cleaner.py  
+├── utils.py  
+├── README.md    
+└── samples/  
 
 ## License
 MIT
